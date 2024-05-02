@@ -1,11 +1,17 @@
 package com.qa.opencart.pages;
 
+import org.openqa.selenium.By;
+
 public class CartPage {
 
-	public static void main(String[] args) {
-
-		
-		int i = 10;
+	int i = 10;
+	
+	
+	By name = By.id("test");
+	
+	public void getName() {
+		System.out.println("name");
 	}
+	
 
 }
