@@ -24,7 +24,8 @@ public class LoginPage {
 	private By forgotPwdLink = By.linkText("Forgotten Password");
 	private By registerLink = By.linkText("Register");
 
-
+//******************
+	
 	// 2. Public Page Class Const...
 	public LoginPage(WebDriver driver) {
 		this.driver = driver;
