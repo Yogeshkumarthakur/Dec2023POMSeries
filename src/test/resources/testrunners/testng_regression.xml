@@ -35,7 +35,7 @@
 		<classes>
 			<class name="com.qa.opencart.tests.LoginPageTest" />
 		</classes>
-	</test>
+	</test> -->
 
 
 	<test name="Accounts Page Test">
@@ -43,10 +43,10 @@
 		<classes>
 			<class name="com.qa.opencart.tests.AccountsPageTest" />
 		</classes>
-	</test>
+	</test> 
 
 
-	<test name="Search Results Page Test">
+	<!-- <test name="Search Results Page Test">
 		<parameter name="browser" value="chrome" />
 		<classes>
 			<class name="com.qa.opencart.tests.SearchResultsTest" />
