@@ -8,8 +8,8 @@ public class Google {
 
 
 	}
-	public void text () {
-		System.out.println("text page....");
+	public void doclicking () {
+		System.out.println("doclicking....");
 }}
 
 
