@@ -11,7 +11,10 @@ public class Google {
 	public void forgotusernamed() {
 		System.out.println("forgotusernamed......");
 	}
-	
+
+
+
+	public void dclicking() {
+		System.out.println("dclicking....");
+	}
 }
-
-
