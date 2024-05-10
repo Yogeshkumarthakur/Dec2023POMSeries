@@ -8,8 +8,8 @@ public class Google {
 
 
 	}
-	public void forgottenpwd () {
-		System.out.println("forgottenpwd");
+	public void text () {
+		System.out.println("text page....");
 }}
 
 
