@@ -9,7 +9,7 @@ public class Google {
 
 	}
 	public void forgotpwd () {
-		System.out.println("rforgotpwd");
+		System.out.println("forgotpwd");
 
 }} 
 
